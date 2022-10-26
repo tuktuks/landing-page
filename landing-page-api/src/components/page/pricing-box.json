@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_pricing_boxes",
+  "info": {
+    "displayName": "pricingBox"
+  },
+  "options": {},
+  "attributes": {
+    "totalPrice": {
+      "type": "integer"
+    },
+    "numberinstallments": {
+      "type": "integer"
+    },
+    "priceInstallments": {
+      "type": "integer"
+    },
+    "benefits": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.button"
+    }
+  }
+}
