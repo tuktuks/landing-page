@@ -12,9 +12,7 @@
   "pluginOptions": {},
   "attributes": {
     "photo": {
-      "allowedTypes": [
-        "images"
-      ],
+      "allowedTypes": ["images"],
       "type": "media",
       "multiple": false
     },
